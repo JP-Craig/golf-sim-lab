@@ -1,0 +1,10 @@
+club_name,ball_speed_mph,launch_angle_deg,azimuth_deg,spin_rpm,spin_axis_deg
+Driver,155,13,0,2500,0
+Driver,152,12,2,2700,4
+Driver,149,11,-3,2900,-6
+7 Iron,120,18,0,6200,0
+7 Iron,118,17,1,6400,3
+7 Iron,122,19,-2,6000,-4
+PW,95,28,0,9000,0
+PW,93,27,1,9200,2
+PW,97,29,-1,8800,-2
